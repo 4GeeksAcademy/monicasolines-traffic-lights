@@ -16,7 +16,6 @@ const Home = () => {
 			<div className="d-flex justify-content-center">
 				<div className="bg-dark" style={hanger}> </div>
 			</div>
-			
 			<TrafficLights/>
 		</div>
 	);
